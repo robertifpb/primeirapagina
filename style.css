@@ -14,7 +14,7 @@
     justify-content: right;
 }
 
-.lista-item {
+.lista-item{
     font-style: italic;
     border: 3px solid #000000;
     background-color: 	#FA8072
@@ -38,4 +38,12 @@
     width: 70px;
     height: auto;
 
+}
+
+.logotipo {
+    position: absolute;
+    right: 0px;
+    top: 255px; /* Ajuste conforme necessário */
+    width: 14%;
+    max-width: 150px;
 }
