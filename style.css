@@ -35,15 +35,7 @@
 }
 
 .logo {
-    width: 70px;
+    width: 60px;
     height: auto;
 
-}
-
-.logotipo {
-    position: absolute;
-    right: 0px;
-    top: 255px; /* Ajuste conforme necessário */
-    width: 14%;
-    max-width: 150px;
 }
